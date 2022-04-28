@@ -1,1 +1,1 @@
-Contains the myAPFP mobile application's private policy.
+Contains the myAPFP mobile application's privacy policy.
